@@ -9,7 +9,7 @@
     display: flex;
     align-items: center;
     flex-direction: column;
-    margin-top: 4rem;
+    margin-top: 2rem;
     max-width: 400px;
     height: 300px;
     border: 1px solid black;
@@ -29,10 +29,9 @@
 }
 
 .pokemon-name{
-    margin-top: 1rem;
+    margin: 1rem auto;
     letter-spacing: 4px;
-    font-size: large;
-    margin-bottom: 1rem;
+    font-size: x-large;
     font-weight: bold;
 }
 
